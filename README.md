@@ -1,0 +1,1 @@
+# My solutions of some of the Advent Of Code 2022 problems in Rust
